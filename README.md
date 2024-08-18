@@ -1,6 +1,6 @@
 # English files for H2M
 
-This README provides instructions on how to switch your H2M game language to English. Please follow the steps carefully to ensure a smooth transition.
+This README provides instructions on how to switch your H2M/S2M game language to English. Please follow the steps carefully to ensure a smooth transition.
 
 ## Important: Backup Your Game
 
